@@ -5,16 +5,10 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ## Table of contents
 
 - [Overview](#overview)
-- [Links](#links)
+
 - [Built with](#built-with)
-- [Author](#author)
 
 ## Overview
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
 ### Built with
@@ -24,7 +18,3 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - Flexbox
 
 
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
